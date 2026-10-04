@@ -1,0 +1,14 @@
+:root {
+    --background-color-panel: #0C172C;
+    --background-color-card: #18253f;
+
+    --button-color-focused: #2A3474;
+    --button-color-hover: #505AEF;
+
+    --counter-color-unfocused: #182A4E;
+    --counter-color-focused: #394A95;
+    
+    --text-color-primary: #F8FAFC;
+    --text-color-secondary: #94A3B8;
+
+}

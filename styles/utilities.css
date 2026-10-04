@@ -1,0 +1,10 @@
+.horizontal_separator {
+    height: 2px;
+    border: 1px solid var(--background-color-card);
+    width: 100%;
+}
+
+.list-style-none {
+    list-style: none;
+    padding: 0px;
+}
